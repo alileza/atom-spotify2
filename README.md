@@ -15,4 +15,4 @@ Or use the menu items in *Packages -> Spotify*.
 
 Pull requests welcome (and encouraged!)
 
-[atom-spotify]: https://github.com/jakemarsh/atom-spotify
+[atom-spotify]: https://github.com/albertorestifo/atom-spotify2
